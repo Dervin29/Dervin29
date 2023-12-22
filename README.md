@@ -1,16 +1,34 @@
-### Hi there 👋
+# Alan Derwin A - Front End Developer 👨‍💻
 
-<!--
-**Dervin29/Dervin29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, World!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Alan Derwin A, a passionate front-end developer based in Bangalore, Karnataka, India. I love crafting user interfaces and bringing designs to life. Here's a glimpse of my coding journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 I'm currently honing my skills as a front-end developer.
+- 💼 Working in Bangalore, Karnataka, India.
+- 🎓 MSC in Computer Science from St Joseph's University, Bangalore.
+- 📚 I'm always eager to learn and explore new technologies.
+
+### 💻 My Tech Stack
+
+- **Languages:** HTML/CSS, Java, Python, C, C++, JavaScript, MySQL.
+- **Frameworks:** React.js, Node.js, Express, Material UI, Tailwind CSS, Bootstrap.
+- **Developer Tools:** Git, AWS, VS Code, Visual Studio, PyCharm, IntelliJ, Android Studio.
+
+
+### 📫 Let's Connect
+
+- LinkedIn: [Alan Derwin A](https://www.linkedin.com/in/alanderwin29/)
+- GitHub: [Dervin29](https://github.com/Dervin29)
+
+### 🤝 Open to Collaboration
+
+I'm always open to collaborating on exciting projects. If you have something in mind or just want to chat, feel free to reach out!
+
+### 📊 GitHub Stats
+
+![Alan Derwin A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dervin29&show_icons=true&theme=radical)
+
+Thanks for stopping by! 😄

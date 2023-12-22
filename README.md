@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 
-Welcome to my GitHub profile! I'm Alan Derwin A, a passionate front-end developer based in Bangalore, Karnataka, India. I love crafting user interfaces and bringing designs to life. Here's a glimpse of my coding journey.
+Welcome to my GitHub profile! I'm Alan Derwin A, a passionate front-end developer. I love crafting user interfaces and bringing designs to life. Here's a glimpse of my coding journey.
 
 ### 🚀 About Me
 

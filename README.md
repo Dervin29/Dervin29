@@ -29,6 +29,10 @@ I'm always open to collaborating on exciting projects. If you have something in 
 
 ### 📊 GitHub Stats
 
-![Alan Derwin A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dervin29&show_icons=true&theme=radical)
+![Dervin29's Stats](https://github-readme-stats.vercel.app/api?username=Dervin29&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+
+![Dervin29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dervin29&theme=tokyonight&hide_border=true)
+
+![Dervin29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dervin29&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 Thanks for stopping by! 😄

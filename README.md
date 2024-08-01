@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Alan Derwin A, a passionate front-end develope
 
 - LinkedIn: [Alan Derwin A](https://www.linkedin.com/in/alanderwin29/)
 - GitHub: [Dervin29](https://github.com/Dervin29)
-- Portfolio: [Dervin29](https://alan-portfolio-05.netlify.app)
+- Portfolio: [Portfolio_Link](https://alan-portfolio-05.netlify.app)
 
 ### 🤝 Open to Collaboration
 

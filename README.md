@@ -45,12 +45,16 @@ Frontend Developer focused on building fast, accessible, and scalable web applic
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=dervin29&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=dervin29&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dervin29&theme=github_dark&hide_border=true&layout=compact" width="49%" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dervin29&theme=github_dark&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dervin29&theme=github_dark&hide_border=true" width="60%" />
+</p>
 
 ## Connect
 

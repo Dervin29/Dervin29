@@ -48,28 +48,14 @@ Frontend Developer focused on building fast, accessible, and scalable web applic
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=dervin29&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dervin29&theme=github_dark&hide_border=true&layout=compact" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=dervin29&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-
-</td>
-<td width="50%">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dervin29&theme=github_dark&hide_border=true&layout=compact)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-![](https://streak-stats.demolab.com/?user=dervin29&theme=github_dark&hide_border=true)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=dervin29&theme=github_dark&hide_border=true" />
+</p>
 
 ## Connect
 

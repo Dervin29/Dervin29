@@ -10,35 +10,6 @@ Frontend Developer focused on building fast, accessible, and scalable web applic
 - Interested in developer experience, AI-powered products, and scalable frontend systems.
 - Focused on writing clean, maintainable, and production-ready code.
 
-## Featured Projects
-
-### AI Resume Analyzer
-
-AI-powered resume analysis with ATS-focused feedback and actionable suggestions.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · AI
-
-- **Repository:** https://github.com/dervin29/ai-resume-analyzer
-- **Live Demo:** https://ai-resume-analyzer-pied-six.vercel.app/
-
-### Echo Reads
-
-Upload PDF books and have interactive AI voice conversations with searchable content.
-
-**Stack:** Next.js · TypeScript · MongoDB · Vapi · ElevenLabs
-
-- **Repository:** https://github.com/dervin29/echo-reads
-- **Live Demo:** https://echo-reads-ten.vercel.app/
-
-### Trakio
-
-Track product prices with historical analytics and automated price alerts.
-
-**Stack:** Next.js · TypeScript · Supabase · Firecrawl · Recharts
-
-- **Repository:** https://github.com/dervin29/trakio
-- **Live Demo:** https://trakio-blush.vercel.app/
-
 ## Tech Stack
 
 ### Languages
